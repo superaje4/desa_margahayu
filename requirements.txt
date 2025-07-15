@@ -6,3 +6,5 @@ pydeck
 matplotlib
 folium
 plotly
+base64
+os
