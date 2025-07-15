@@ -1,2 +1,2 @@
-cibiruwetan.png adalah gambar logo desa cibiru wetan pada dashboard.
-desa_cantik.png adalah gambar logo desa cantik pada dashboard.
+margahayu.png adalah gambar logo desa margahayu pada dashboard.
+desa_lestari.png adalah gambar logo desa lestari pada dashboard.
