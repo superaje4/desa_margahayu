@@ -1,0 +1,75 @@
+Nama Komoditas,"Luas
+ (Ha)",Hasil Panen (Ton per Ha),Kategori,Ton/Ha/Tahun
+Padi,180.0,1800.0,Tanaman Pangan,10.0
+Jagung,0.88,5.0,Tanaman Pangan,5.7
+Kedelai,1.25,2.0,Tanaman Pangan,1.6
+Kacang Tanah,8.0,8.0,Tanaman Pangan,1.0
+Kacang Hijau,9.0,9.0,Tanaman Pangan,1.0
+Ubi Jalar,0.04,0.5,Tanaman Pangan,14.0
+Ubi Kayu,0.0,0.0,Tanaman Pangan,20.0
+Melinjo,0.0,0.0,Tanaman Pangan,2.0
+Pete,0.13,0.5,Tanaman Pangan,4.0
+Jengkol,1.0,3.0,Tanaman Pangan,3.0
+Talas,0.01,0.1,Tanaman Pangan,12.0
+Merica,0.0,0.0,Tanaman Pangan,1.5
+Kentang,0.0,0.0,Tanaman Pangan,10.0
+Wortel,0.0,0.0,Tanaman Pangan,7.5
+Sorgum,0.0,0.0,Tanaman Pangan,3.0
+Sagu,0.0,0.0,Tanaman Pangan,8.0
+Gandum,0.0,0.0,Tanaman Pangan,4.0
+Sukun,0.0,0.0,Tanaman Pangan,5.0
+Tomat,0.0,0.0,Buah-buahan,9.0
+Semangka,0.13,2.0,Buah-buahan,15.0
+Jeruk Nipis,0.0,0.0,Buah-buahan,22.0
+Jeruk Lemon,0.0,0.0,Buah-buahan,20.0
+Jeruk Lokal,0.0,0.0,Buah-buahan,18.0
+Jeruk Bali,0.04,0.5,Buah-buahan,12.0
+Mangga Manalagi,0.5,5.0,Buah-buahan,10.0
+Mangga Alpukat,0.0,0.0,Buah-buahan,8.8
+Mangga Harumanis,0.7,7.0,Buah-buahan,10.0
+Mangga Gedonggincu,0.2,2.0,Buah-buahan,10.0
+Mangga Malibu,0.0,0.0,Buah-buahan,10.0
+Mangga Apel,0.15,1.5,Buah-buahan,10.0
+Mangga Cengkir,0.4,4.0,Buah-buahan,10.0
+Melon,0.0,0.0,Buah-buahan,8.0
+Stroberi,0.0,0.0,Buah-buahan,5.0
+Rambutan,2.5,20.0,Buah-buahan,8.0
+Papaya,0.13,2.5,Buah-buahan,20.0
+Jambu,0.01,0.1,Buah-buahan,20.0
+Pisang,0.23,3.5,Buah-buahan,15.0
+Nanas,0.0,0.0,Buah-buahan,12.0
+Apel,0.0,0.0,Buah-buahan,15.0
+Anggur,0.0,0.0,Buah-buahan,2.0
+Alpukat,0.01,0.1,Buah-buahan,9.0
+Durian Montong,0.0,0.0,Buah-buahan,3.0
+Durian Petruk,0.0,0.0,Buah-buahan,3.0
+Durian Bawor,0.0,0.0,Buah-buahan,3.0
+Durian Musangking,0.0,0.0,Buah-buahan,3.0
+Durian Bokor,0.0,0.0,Buah-buahan,3.0
+Salak,0.0,0.0,Buah-buahan,5.0
+Nangka,0.6,6.0,Buah-buahan,10.0
+Jahe,0.01,0.1,Tanaman Obat,8.0
+Jahe Merah,0.5,4.0,Tanaman Obat,8.0
+Kunyit,0.1,1.0,Tanaman Obat,10.0
+Kunyit Putih,0.0,0.0,Tanaman Obat,10.0
+Laos,0.1,1.0,Tanaman Obat,10.0
+Kencur,0.1,1.0,Tanaman Obat,10.0
+Temulawak,0.0,0.0,Tanaman Obat,10.0
+Lidah Buaya,0.0,0.0,Tanaman Obat,15.0
+Kumis Kucing,0.0,0.0,Tanaman Obat,5.0
+Kemangi,0.1,0.5,Tanaman Obat,5.0
+Sirih,0.04,0.2,Tanaman Obat,5.0
+Ketumbar,0.0,0.0,Tanaman Obat,1.0
+Sambiloto,0.0,0.0,Tanaman Obat,5.0
+Gingko Giloba,0.0,0.0,Tanaman Obat,1.0
+Bangle,0.0,0.0,Tanaman Obat,10.0
+Mengkudu,0.0,0.0,Tanaman Obat,5.0
+Kayu Manis,0.0,0.0,Tanaman Obat,1.0
+JIntan Hitam,0.0,0.0,Tanaman Obat,0.5
+Kapulaga,0.0,0.0,Tanaman Obat,0.5
+Sereh,0.0,0.0,Tanaman Obat,20.0
+,,,,
+,,,,
+Tanaman Pangan,200.3,,,
+Buah-buahan,5.6,,,
+Tanaman Obat,0.95,,,
