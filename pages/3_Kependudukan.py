@@ -228,6 +228,6 @@ with st.expander("lihat tabel"):
     st.dataframe(agam,use_container_width=True)
 
 with st.sidebar:
-    st.image('desa_Lestari.png',width=180)
+    st.image('desa_lestari.png',width=180)
     st.header("Dashboard Data Kependudukan Desa Margahayu")
     st.caption("""Menu kependudukan ini menyediakan data jumlah penduduk berdasarkan usia, jenis kelamin, serta data tingkat pendidikan dan status pendidikan angkatan kerja di Desa Margahayu, Kecamatan Pegaden Barat, Kabupaten Subang, Jawa Barat.""")
