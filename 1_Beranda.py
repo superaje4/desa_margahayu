@@ -79,10 +79,11 @@ pt23 = pd.read_csv("./data/pt23.csv") #
 pt23 = pt23.iloc[0:65,0:4]
 pt23.index = list(pt23.iloc[0:65,0])
 pt23 = pt23.iloc[0:72,1:4]
+pt23=pt23.sort_values(by='Hasil Panen (Ton per Tahun)', ascending=False)  #sort by Luas (Ha)
 p1,p2 = st.columns((1,1))
-p1.metric(label='Hasil panen Padi (Ton/Ha)',value="🌾"+str(int(pt23.iloc[0,1])))
-p2.metric(label='Hasil Panen Kacang Tanah (Ton/Ha)',value=" 🥜"+str(int(pt23.iloc[3,1])))
-st.write("Pada tahun ",str(int(datadesa.iloc[22,1])),", sawah di Desa Margahayu yang memiliki luas ",str(int(pt23.iloc[0,0]))," hektar (Ha) menghasilkan panen sebanyak ",str(int(pt23.iloc[0,1]))," Ton untuk setiap hektarnya. Selain itu, lahan kacang tanah di Margahayu yang memiliki luas ",str(int(pt23.iloc[3,0]))," hektar (Ha) memiliki hasil panen sebanyak ",str(int(pt23.iloc[3,1]))," Ton untuk setiap hektarnya.")
+p1.metric(label='Hasil panen Padi (Ton/Tahun)',value="🌾"+str(int(pt23.iloc[0,1])))
+p2.metric(label='Hasil panen Rambutan (Ton/Tahun)',value="🍈"+str(int(pt23.iloc[1,1])))
+st.write("Pada tahun ",str(int(datadesa.iloc[22,1])),", sawah di Desa Margahayu yang memiliki luas ",str(int(pt23.iloc[0,0]))," hektar (Ha) menghasilkan panen sebanyak ",str(int(pt23.iloc[0,1]))," Ton untuk setiap hektarnya. Selain itu, lahan kacang tanah di Margahayu yang memiliki luas ",str(int(pt23.iloc[3,0]))," hektar (Ha) memiliki hasil panen sebanyak ",str(int(pt23.iloc[3,1]))," Ton untuk setiap tahunnya.")
 
 import pydeck as pdk
 st.write("# Profil Desa Margahayu")
